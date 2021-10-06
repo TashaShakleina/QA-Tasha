@@ -4,4 +4,9 @@
 	<age>30</age>
 	<pets>3</pets>
 	<pay>100</pay>
+	<movie>Harry Potter</movie>
+	<TV_show>Friends</TV_show>
+	<food>chocolate</food>
+	<season>summer</season>
+	<country>Ireland</country>
 </user>
