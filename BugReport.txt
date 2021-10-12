@@ -1,0 +1,10 @@
+Summary
+Project
+Component
+Version
+Severity
+Priority
+Status
+Author
+Steps to reproduse
+Attachment
