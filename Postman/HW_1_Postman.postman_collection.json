@@ -11,7 +11,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://162.55.220.72:5005/get_method\n?name=Tasha&age=30",
+					"raw": "http://162.55.220.72:5005/get_method?name=Tasha&age=30",
 					"protocol": "http",
 					"host": [
 						"162",
