@@ -118,9 +118,9 @@ b_item_relult_multi = b_item_t * b_item_f
 #  55. Вывести b_item_relult_multi в консоль.
 print(b_item_relult_multi)
 #  56. Создать переменную b_item_relult_division и присвоить деление b_item_t и b_item_f
-b_item_relult_division = b_item_t / b_item_f
+#b_item_relult_division = b_item_t / b_item_f
 #  57. Вывести b_item_relult_division в консоль. (Получить ошибку)
-print(b_item_relult_division)
+#print(b_item_relult_division)
 #  58. Создать переменную b_item_1_int и присвоить явное приведение b_item_t к int
 b_item_1_int = int(b_item_t)
 #  59. Вывести b_item_1_int в консоль.
