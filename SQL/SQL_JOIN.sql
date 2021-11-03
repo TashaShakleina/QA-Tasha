@@ -107,7 +107,7 @@ from roles r
 left outer join roles_employee re on r.id = re.role_id 
 left outer join employee_salary es on es.employee_id = re.employee_id 
 left outer join salary s on s.id = es.salary_id 
-where r.role_name like '%Java%'
+where r.role_name like '%Java developer%'
 
 -- 16. Вывести зарплаты Python разработчиков
 select r.role_name, s.monthly_salary
@@ -115,7 +115,7 @@ from roles r
 left outer join roles_employee re on r.id = re.role_id 
 left outer join employee_salary es on es.employee_id = re.employee_id 
 left outer join salary s on s.id = es.salary_id 
-where r.role_name like '%Python%'
+where r.role_name like '%Python developer%'
 
 --17. Вывести имена и зарплаты Junior Python разработчиков
 select e.employee_name, s.monthly_salary, r.role_name 
